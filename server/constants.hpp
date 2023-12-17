@@ -4,7 +4,7 @@
 #include <cmath>
 
 #define DEFAULT_HOSTNAME "lima" //? not sure about this, check with teacher
-#define DEFAULT_PORT "58011"
+#define DEFAULT_PORT "58071"
 
 #define UDP_TIMEOUT_SECONDS (4)
 #define UDP_RESEND_TRIES (3)

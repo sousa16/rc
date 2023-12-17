@@ -6,7 +6,6 @@
 
 #include <csignal>
 
-#include "commands.hpp"
-#include "../common/constants.hpp"
+#include "constants.hpp"
 
 #endif
